@@ -46,6 +46,21 @@
 # del a
 # print(a)
 
+# l1=[1,23.2,3,4,5,"apple"]
+# print(l1)
+# l1.append("vivek")
+# print(l1)
+
+# l1=[]
+# l1.append(10)
+# l1.append(20)
+# print(l1)
+# l1.append(30)
+# l1.append(40)
+# print(l1)
+# l1.insert(2,100)
+# print(l1)
+
 
 
 
